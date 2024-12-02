@@ -23,4 +23,5 @@ plugins:
 sass:
   sourcemap: never
 
-google_analytics: G-X8HGV5RMNG
+google_analytics:
+  id: "G-X8HGV5RMNG"
