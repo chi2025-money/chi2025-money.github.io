@@ -11,6 +11,10 @@ groups:
         surname: Vines
         email: john.vines@ed.ac.uk
         affil: University of Edinburgh
+      - name: Jofish
+        surname: Kaye
+        email: jofish@jofish.com
+        affil: Wells Fargo
       - name: Mark
         surname: Matthews
         email: mark.matthews@ucd.ie
