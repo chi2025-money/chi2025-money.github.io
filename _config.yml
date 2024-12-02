@@ -16,9 +16,14 @@ exclude:
   - Gemfile
   - vendor/
 
+whitelist: [jekyll-analytics]
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-analytics
 
 sass:
   sourcemap: never
+
+jekyll_analytics:
+  GoogleAnalytics: G-X8HGV5RMNG
