@@ -1,13 +1,13 @@
-title: Nagymaros
-description: Jekyll theme for a conference website
-baseurl: /jekyll-nagymaros
-url: https://piazzai.github.io
+title: "The Future of Money and HCI"
+description: "CHI 2025 Workshop | Yokohama, Japan"
+baseurl: /
+url: https://hci.money
 
 permalink: pretty
 theme: jekyll-nagymaros
 
 home: /
-copyright: Place Holder
+copyright: 
 indexing: true
 
 exclude:
@@ -23,3 +23,4 @@ plugins:
 sass:
   sourcemap: never
   
+

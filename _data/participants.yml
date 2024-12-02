@@ -1,0 +1,25 @@
+groups:
+  - title: Organizing committee
+    sort: false
+    columns: false
+    members:
+      - name: Saeed 
+        surname: Abdullah
+        email: saeed@psu.edu
+        affil: Penn State University
+      - name: John
+        surname: Vines
+        email: john.vines@ed.ac.uk
+        affil: University of Edinburgh
+      - name: Mark
+        surname: Matthews
+        email: mark.matthews@ucd.ie
+        affil: University College Dublin
+      - name: Johnna
+        surname: Blair
+        email: jlb883@psu.edu
+        affil: Penn State University
+      - name: Jeff
+        surname: Brozena
+        email: brozena@psu.edu
+        affil: Penn State University
