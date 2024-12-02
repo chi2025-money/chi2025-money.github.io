@@ -19,4 +19,7 @@
     <link rel="stylesheet" href="{{ 'assets/css/leaflet.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/open-color.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
 </head>
