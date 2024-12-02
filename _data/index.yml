@@ -7,5 +7,5 @@ buttons:
     url: "assets/files/chi25q-sub7264-i5.pdf"
     disabled: false
   - text: Submit a Paper
-    url: 
-    disabled: true
+    url: "mailto:hcimoney@googlegroups.com"
+    disabled: false
