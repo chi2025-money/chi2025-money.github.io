@@ -1,7 +1,7 @@
-alerts:
-  - title: "Call for papers is open!"
-    text: "See below for details on how to submit a paper."
-    color: green-1
+#alerts:
+#  - title: "Call for papers is open!"
+#    text: "See below for details on how to submit a paper."
+#    color: green-1
 buttons:
   - text: View Workshop Proposal
     url: "assets/files/chi25q-sub7264-i5.pdf"
