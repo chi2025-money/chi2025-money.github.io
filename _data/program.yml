@@ -7,10 +7,10 @@ days:
   - name: Workshop Program
     events:
       - time: 9:00 to 10:00
-        title: Workshop Introduction and Organizer Presentations
+        title: Workshop introduction and organizer presentations
         subtitle: Brief introductions from organizers, highlighting goals of workshop, provide overview of our own research, and discuss plans for the day.
       - time: 10:00 to 11:00
-        title: Participant Research Presentations
+        title: Participant research presentations
         subtitle: Each workshop participant will have 5 minutes to present their accepted paper.
       - time: 11:00 to 11:15
         title: Break
