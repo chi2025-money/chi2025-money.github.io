@@ -26,5 +26,3 @@ We call for position papers and short empirical, theoretical or methodological p
 - How can we better protect users from financial abuse and exploitation risks? 
 
 We also welcome reflections, argumentation, and case studies related to designing fintech, or broader ethical issues related to this theme.
-
-Please email submissions to [hcimoney@googlegroups.com](mailto:hcimoney@googlegroups.com).

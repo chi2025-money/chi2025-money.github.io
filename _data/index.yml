@@ -8,4 +8,4 @@ buttons:
     disabled: false
   - text: Submit a Paper
     url: "mailto:hcimoney@googlegroups.com"
-    disabled: false
+    disabled: true
