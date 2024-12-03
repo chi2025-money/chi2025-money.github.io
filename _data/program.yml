@@ -3,30 +3,28 @@ legend:
   categories:
     - name: A category
       color: blue-6
-    - name: Another category
-      color: red-6
-    - name: Yet another category
-      color: teal-6
 days:
-  - name: Day 1
+  - name: Workshop Program
     events:
-      - time: 8:00 to 9:00
-        title: Registration and coffee
-      - time: 9:00 to 11:00
-        title: Lorem ipsum
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: A category
-      - time: 11:00 to 13:00
-        title: Dolor sit amet
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Consectetur adipiscing elit
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 16:00 to 18:00
-        title: Sed do eiusmod
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-        category: Another category
+      - time: 9:00 to 10:00
+        title: Workshop Introduction and Organizer Presentations
+        subtitle: Brief introductions from organizers, highlighting goals of workshop, provide overview of our own research, and discuss plans for the day.
+      - time: 10:00 to 11:00
+        title: Participant Research Presentations
+        subtitle: Each workshop participant will have 5 minutes to present their accepted paper.
+      - time: 11:00 to 11:15
+        title: Break
+      - time: 12:15 to 13:15
+        title: Breakout session #1 - Supporting social finances
+      - time: 13:15 to 14:15
+        title: Lunch
+      - time: 14:15 to 15:15
+        title: Breakout session #2 - Designing for diverse financial goals
+      - time: 15:15 to 16:15
+        title: Breakout session #3 - Ethical considerations
+      - time: 16:15 to 16:30
+        title: Break
+      - time: 16:30 to 17:30
+        title: Closing discussion
+        subtitle: The organizers will conclude the workshop by summarizing the main point from previous workshop sessions. Participants and organizers will develop a priority list of topics of study and ideal outcomes for future research. This will help establish a course of action for the HCI community in centering user financial wellbeing in the development of future fintech, based on their shared knowledge and experiences of workshop participants.
+
