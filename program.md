@@ -1,6 +1,6 @@
 ---
 layout: program
-title: Program
+title: Tentative Program
 description: Workshop schedule of events 
 navorder: 2
 ---
