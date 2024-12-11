@@ -4,7 +4,7 @@
 #    color: green-1
 buttons:
   - text: View Workshop Proposal
-    url: "assets/files/chi25q-sub7264-i5.pdf"
+    url: "assets/files/CHI_Workshop___money_and_HCI___2024_10_01.pdf"
     disabled: false
   - text: Submit a Paper
     url: "mailto:hcimoney@googlegroups.com"
