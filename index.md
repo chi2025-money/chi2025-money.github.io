@@ -29,7 +29,7 @@ The workshop will focus on both identifying challenges and opportunities to addr
 
 # Submissions
 
-Submit your short paper to EasyChair by **February 13th, 11:59pm AOE**. (Note that link will be available soon!)
+Submit your short paper to EasyChair by **February 13th, 11:59pm AOE**. (Note that the link will be available soon!)
 
 Submissions should be **up to 4 pages, including references.** 
 
