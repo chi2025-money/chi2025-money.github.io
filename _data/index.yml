@@ -7,5 +7,5 @@ buttons:
     url: "assets/files/CHI_Workshop___money_and_HCI___2024_10_01.pdf"
     disabled: false
   - text: Submit a Paper
-    url: "mailto:hcimoney@googlegroups.com"
-    disabled: true
+    url: "https://easychair.org/conferences/?conf=moneyandhci2025"
+    disabled: false
