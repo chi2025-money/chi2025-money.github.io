@@ -31,8 +31,8 @@ layout: default
                 {% for member in members %}
                 {% assign full = member.name | append: ' ' | append: member.surname %}
                 {% assign affil = member.affil %}
-                {% if member.email %}
-                <li><a href="mailto:{{ member.email }}">{{ full }}</a> <small class="text-muted">{{ affil }}</small></li>
+                {% if member.website %}
+                <li><a href="{{ member.website }}">{{ full }}</a> <small class="text-muted">{{ affil }}</small></li>
                 {% else %}
                 <li>{{ full }} <small class="text-muted">{{ affil }}</small></li>
                 {% endif %}

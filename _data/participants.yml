@@ -5,27 +5,27 @@ groups:
     members:
       - name: Johnna
         surname: Blair
-        email: jlb883@psu.edu
+        website: https://johnnablair.weebly.com/
         affil: Penn State University
       - name: Jeff
         surname: Brozena
-        email: brozena@psu.edu
+        website: https://brozena.net
         affil: Penn State University
       - name: John
         surname: Vines
-        email: john.vines@ed.ac.uk
+        website: https://www.designinformatics.org/person/john-vines/
         affil: University of Edinburgh
       - name: Jofish
         surname: Kaye
-        email: jofish@jofish.com
+        website: https://jofish.com/
         affil: Wells Fargo
       - name: Mark
         surname: Matthews
-        email: mark.matthews@ucd.ie
+        website: https://people.ucd.ie/mark.matthews
         affil: University College Dublin
       - name: Saeed
         surname: Abdullah
-        email: saeed@psu.edu
+        website: https://www.saeedabdullah.com/
         affil: Penn State University
   - title: Paper chairs
     sort: false
