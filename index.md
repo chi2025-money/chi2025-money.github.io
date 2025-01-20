@@ -1,7 +1,7 @@
 ---
 layout: index
 title: Workshop on the Future of Money and HCI
-description: "CHI 2025 Workshop | Yokohama, Japan"
+description: "CHI 2025 Workshop | Yokohama, Japan | April 27th, 2025"
 ---
 
 # Call for Participation
