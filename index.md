@@ -29,7 +29,7 @@ The workshop will focus on both identifying challenges and opportunities to addr
 
 # Submissions
 
-Submit your short paper to [EasyChair](https://easychair.org/conferences/?conf=moneyandhci2025) by **February 13th, 11:59pm AOE**.
+Submit your short paper to [EasyChair](https://easychair.org/conferences/?conf=moneyandhci2025) by **~~February 13th~~ February 28th, 11:59pm AOE**.
 
 Submissions should be **up to 4 pages, including references.** 
 
