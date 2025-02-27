@@ -31,7 +31,7 @@ The workshop will focus on both identifying challenges and opportunities to addr
 
 Submit your short paper to [EasyChair](https://easychair.org/conferences/?conf=moneyandhci2025) by **~~February 13th~~ February 28th, 11:59pm AOE**.
 
-Submissions should be **up to 4 pages, including references.** 
+Submissions should be **up to 4 pages, excluding references.** 
 
 We call for position papers and short empirical, theoretical or methodological papers related to the workshop themes. We also welcome reflections, argumentation, and case studies related to designing fintech, or broader ethical issues related to this theme.
 
