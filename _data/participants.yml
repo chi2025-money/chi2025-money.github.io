@@ -35,3 +35,49 @@ groups:
         surname: Blair
       - name: Jeff
         surname: Brozena
+  - title: Participants
+    sort: true
+    columns: true
+    members:
+      - name: Rosanna
+        surname: Bellini
+      - name: Johnna
+        surname: Blair
+      - name: Jeff
+        surname: Brozena
+      - name: Orla
+        surname: Cooney
+      - name: Jiamin
+        surname: Dai
+      - name: Martijn
+        surname: De Waal
+      - name: Robert
+        surname: Ferguson
+      - name: Jofish
+        surname: Kaye
+      - name: Jiwon
+        surname: Kim
+      - name: Sophie
+        surname: Leonard
+      - name: Mark
+        surname: Matthews
+      - name: Wendy
+        surname: Moncur
+      - name: Sanket
+        surname: Patel
+      - name: Kay
+        surname: Schröder
+      - name: Chris
+        surname: Speed
+      - name: Arthur
+        surname: Theil
+      - name: Van
+        surname: Tran
+      - name: Priyanka
+        surname: Verma
+      - name: John
+        surname: Vines
+      - name: Lu
+        surname: Xian
+      - name: Yinjie
+        surname: Xie
