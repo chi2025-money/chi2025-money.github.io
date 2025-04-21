@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Papers
-description: The accepted submissions are listed in alphabetical order based on the first author's first name.
+description: List of accepted papers.
 navorder: 4
 ---
 
+The accepted submissions are listed in alphabetical order based on the first author's first name.
 
 @row
 Chris Speed. **Before Money: Redesigning Data Debt as the Foundation for Fintech Futures.**
