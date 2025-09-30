@@ -1,7 +1,7 @@
 title: "The Future of Money and HCI"
 description: "CHI 2025 Workshop | Yokohama, Japan"
 baseurl: /
-url: chi2025-money.brozena.net
+url: chi2025-money.github.io
 
 permalink: pretty
 remote-theme: "piazzai/jekyll-nagymaros"
